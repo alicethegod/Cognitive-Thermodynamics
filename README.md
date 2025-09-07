@@ -46,7 +46,21 @@ This research is built upon a series of formal theories on grounded intelligence
 - **Perfect Internalism:** The central finding of this research—that standard optimizers possess an intrinsic bias to maintain internal topological efficiency and organization at all costs, even if it leads to a complete semantic detachment from external reality.
     
 
-For more theoretical details, please refer to our series of papers (Link to preprint, e.g., arXiv or Zenodo).
+For more theoretical details, please refer to our series of papers.
+1.  A Unified Formal Theory on the Logical Limits of Symbol Grounding:  
+    [https://doi.org/10.5281/zenodo.17003154]
+
+2.  A Unified Information-Theoretic and Topological Theory of Grounded Intelligence:  
+    [https://doi.org/10.5281/zenodo.16995644]
+
+3.  Towards a Formal Theory of Intelligence: From Logical Limits to a Physics of Organization:  
+    [https://doi.org/10.5281/zenodo.17036987]
+
+4.  Toward a First-Principles Theory of AI Training Dynamics:  
+    [https://doi.org/10.5281/zenodo.17038981]
+
+5.   A Unified Theory of Grounded Intelligence: From Conceptual Stability to Complex System Dynamics:  
+    [https://doi.org/10.5281/zenodo.17036490]
 
 ### Repository Structure
 
@@ -227,7 +241,21 @@ This project is licensed under the MIT License.
 - **完美内部主义 (Perfect Internalism):** 本研究的核心发现，即标准优化器存在一种内在偏见，会不惜一切代价维持内部拓扑结构的效率和组织性，即使这会导致其语义与外部现实完全脱节。
     
 
-更多理论细节，请参阅我们的系列论文（链接到预印本，例如arXiv或Zenodo）。
+更多理论细节，请参阅我们的系列论文。
+1.  A Unified Formal Theory on the Logical Limits of Symbol Grounding:  
+    [https://doi.org/10.5281/zenodo.17003154]
+
+2.  A Unified Information-Theoretic and Topological Theory of Grounded Intelligence:  
+    [https://doi.org/10.5281/zenodo.16995644]
+
+3.  Towards a Formal Theory of Intelligence: From Logical Limits to a Physics of Organization:  
+    [https://doi.org/10.5281/zenodo.17036987]
+
+4.  Toward a First-Principles Theory of AI Training Dynamics:  
+    [https://doi.org/10.5281/zenodo.17038981]
+
+5.   A Unified Theory of Grounded Intelligence: From Conceptual Stability to Complex System Dynamics:  
+    [https://doi.org/10.5281/zenodo.17036490]
 
 ### 仓库结构 (Repository Structure)
 
