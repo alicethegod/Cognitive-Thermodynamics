@@ -1,8 +1,8 @@
 Cognitive Thermodynamics: The Definitive Experiment
 认知热力学：一个封闭认知系统热力学崩溃的决定性实验
 <p align="center">
-<a href="https://www.google.com/search?q=https://colab.research.google.com/github/%5BYourUsername%5D/Cognitive-Thermodynamics/blob/main/main_experiment.ipynb" target="_parent"><img src="https://www.google.com/search?q=https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-<a href="https://colab.research.google.com/github/[YourUsername]/Cognitive-Thermodynamics/blob/main/analysis_and_plotting.ipynb" target="_parent"><img src="https://www.google.com/search?q=https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab for Analysis"/></a>
+<a href="https://www.google.com/search?q=https://colab.research.google.com/github/alicethegod/Cognitive-Thermodynamics/blob/main/main_experiment.ipynb" target="_parent"><img src="https://www.google.com/search?q=https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://www.google.com/search?q=https://colab.research.google.com/github/alicethegod/Cognitive-Thermodynamics/blob/main/analysis_and_plotting.ipynb" target="_parent"><img src="https://www.google.com/search?q=https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab for Analysis"/></a>
 <br>
 
 
@@ -10,7 +10,7 @@ Cognitive Thermodynamics: The Definitive Experiment
 </p>
 
 <p align="center">
-<strong><a href="#english-version">English</a></strong> | <strong><a href="#版本">中文版本</a></strong>
+<strong><a href="#english-version">English</a></strong> | <strong><a href="#中文版本">中文版本</a></strong>
 </p>
 
 English Version
@@ -40,7 +40,7 @@ Cognitive Boltzmann Distribution: A hypothesis regarding the relationship betwee
 
 Perfect Internalism: The central finding of this research—that standard optimizers possess an intrinsic bias to maintain internal topological efficiency and organization at all costs, even if it leads to a complete semantic detachment from external reality.
 
-For more theoretical details, please refer to our series of papers (Link to preprint, e.g., arXiv or Zenodo).
+For more theoretical details, please refer to our series of papers (DOI: 10.5281/zenodo.17036490).
 
 Repository Structure
 .
@@ -51,12 +51,12 @@ Repository Structure
 ├── final_analysis/                 # (Auto-generated) Directory for final figures
 │   ├── definitive_main_plot.png
 │   └── supplementary_plots.png
-└── readme.md                       # This README file
+└── README.md                       # This README file
 
 Installation
 Clone this repository:
 
-git clone https://github.com/alicethegod/Cognitive-Thermodynamics.git
+git clone [https://github.com/alicethegod/Cognitive-Thermodynamics.git](https://github.com/alicethegod/Cognitive-Thermodynamics.git)
 cd Cognitive-Thermodynamics
 
 It is recommended to use conda or virtualenv to create an independent Python environment.
@@ -129,8 +129,8 @@ If you use this code or our theoretical framework in your research, please cite 
     title        = {Cognitive Thermodynamics: A Statistical Mechanics Theory of Grounded Intelligence},
     year         = {2025},
     publisher    = {Zenodo},
-    doi          = {10.5281/zenodo.17070504}, % <-- Replace with your DOI
-    url          = {[https://doi.org/10.5281/zenodo.17070504]} 
+    doi          = {10.5281/zenodo.17070504},
+    url          = {[https://doi.org/10.5281/zenodo.17070504](https://doi.org/10.5281/zenodo.17070504)}
 }
 
 License
@@ -142,7 +142,7 @@ Email: paul.dirac.link@gmail.com
 GitHub Issues: https://github.com/alicethegod/Cognitive-Thermodynamics/issues
 
 中文版本
-<a name="版本"></a>
+<a name="中文版本"></a>
 
 概述 (Overview)
 本仓库包含了论文 《认知热力学：一种基于统计力学的接地智能理论》 的官方实现代码。
@@ -168,7 +168,7 @@ GitHub Issues: https://github.com/alicethegod/Cognitive-Thermodynamics/issues
 
 完美内部主义 (Perfect Internalism): 本研究的核心发现，即标准优化器存在一种内在偏见，会不惜一切代价维持内部拓扑结构的效率和组织性，即使这会导致其语义与外部现实完全脱节。
 
-更多理论细节，请参阅我们的系列论文（链接到预印本，例如arXiv或Zenodo）。
+更多理论细节，请参阅我们的系列论文 (DOI: 10.5281/zenodo.17036490)。
 
 仓库结构 (Repository Structure)
 .
@@ -179,12 +179,12 @@ GitHub Issues: https://github.com/alicethegod/Cognitive-Thermodynamics/issues
 ├── final_analysis/                 # (自动生成) 存放最终图表的目录
 │   ├── definitive_main_plot.png
 │   └── supplementary_plots.png
-└── readme.md                       # 本说明文件
+└── README.md                       # 本说明文件
 
 环境设置 (Installation)
 克隆本仓库到本地：
 
-git clone https://github.com/alicethegod/Cognitive-Thermodynamics.git
+git clone [https://github.com/alicethegod/Cognitive-Thermodynamics.git](https://github.com/alicethegod/Cognitive-Thermodynamics.git)
 cd Cognitive-Thermodynamics
 
 建议使用 conda 或 virtualenv 创建独立的Python环境。
@@ -257,8 +257,8 @@ python analysis_and_plotting.py --json_path ./results_sgd_focused/sgd_focused_re
     title        = {Cognitive Thermodynamics: A Statistical Mechanics Theory of Grounded Intelligence},
     year         = {2025},
     publisher    = {Zenodo},
-    doi          = {10.5281/zenodo.17070504}, 
-    url          = {[https://doi.org/10.5281/zenodo.17070504]}
+    doi          = {10.5281/zenodo.17070504},
+    url          = {[https://doi.org/10.5281/zenodo.17070504](https://doi.org/10.5281/zenodo.17070504)}
 }
 
 许可证 (License)
