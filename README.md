@@ -5,9 +5,9 @@
 
 <p align="center">
 
-<a href="https://colab.research.google.com/github/[YourUsername]/Cognitive-Thermodynamics/blob/main/main_experiment.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/alicethegod/Cognitive-Thermodynamics/blob/main/main_experiment.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-<a href="https://colab.research.google.com/github/[YourUsername]/Cognitive-Thermodynamics/blob/main/analysis_and_plotting.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab for Analysis"/></a>
+<a href="https://colab.research.google.com/github/alicethegod/Cognitive-Thermodynamics/blob/main/analysis_and_plotting.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab for Analysis"/></a>
 
 </p>
 
