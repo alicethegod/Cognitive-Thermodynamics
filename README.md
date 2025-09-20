@@ -69,7 +69,7 @@ For more theoretical details, please refer to our series of papers.
 ```
 .
 ├── main_experiment.ipynb           # 1. Main experiment script
-├── analysis_and_plotting.py    # 2. Analysis & plotting script
+├── analysis_and_plotting.py        # 2. Analysis & plotting script
 ├── results_sgd_focused/            # (Auto-generated) Directory for raw experiment data
 │   └── sgd_focused_results.json
 ├── final_analysis/                 # (Auto-generated) Directory for final figures
@@ -267,7 +267,7 @@ This project is licensed under the MIT License.
 ```
 .
 ├── main_experiment.ipynb           # 1. 主实验脚本
-├── analysis_and_plotting.ipynb     # 2. 分析与绘图脚本
+├── analysis_and_plotting.py        # 2. 分析与绘图脚本
 ├── results_sgd_focused/            # (自动生成) 存放实验原始数据的目录
 │   └── sgd_focused_results.json
 ├── final_analysis/                 # (自动生成) 存放最终图表的目录
